@@ -1,6 +1,4 @@
 # Custom RAG Model Project
-
-One of my recent projects was a custom RAG model.  
 This project required me to learn a lot of things about machine learning.
 
 My older brother is an HVAC sales engineer and he wanted a chatbot that he could ask questions to that would be able to pull an answer from very complex PDFs about various HVAC models.  
